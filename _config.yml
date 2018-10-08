@@ -16,6 +16,17 @@
 
 sass:
   style: compressed
+  
+---
+---
+
+@import "typography";
+@import "colors";
+
+// start writing after this
+div {
+  width: 100%;
+}
 
 title: Hao Min Liu
 email: liuhaumin@gmail.com
